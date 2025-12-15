@@ -1,0 +1,12 @@
+mysql-connector-python~=9.2.0
+langchain_core
+dotenv~=0.9.9
+langchain_openai
+langchain_groq
+groq
+langgraph~=0.3.20
+sqlparse~=0.5.3
+langchain-core~=0.3.78
+python-dotenv~=1.0.1
+mysql~=0.0.3
+langchain~=0.3.27
